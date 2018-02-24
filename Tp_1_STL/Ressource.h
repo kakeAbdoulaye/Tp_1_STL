@@ -32,7 +32,7 @@ protected:
 public:
 	Ressource();
 	Ressource(int idres);
-	//Ressource(int ideres, map<int, int> liste);
+
 	Ressource(const Ressource & ressource);
 	~Ressource();
 
